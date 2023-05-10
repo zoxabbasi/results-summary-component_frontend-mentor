@@ -18,8 +18,8 @@ This is a solution to the [Results Summary Component on Frontend Mentor](https:/
 
 ### Screenshot
 
-![Desktop version](./images/desktop_version.jpg)
-![Mobile version](./images/mobile_version.jpg)
+![Desktop version](./images/desktop_version.png)
+![Mobile version](./images/mobile_version.png)
 
 ### Links
 
